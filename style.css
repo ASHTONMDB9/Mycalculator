@@ -1,49 +1,7 @@
 .container {
-    width: 177px;
-    height: 260px;
-    border: 2px solid red;
-    background-color: black;
+    height:fit-content;
+    width:fit-content;
 }
-.result {
-   height: 40px;
-   background-color: white;
-}
-.global {
-   border-radius: 50%;
-   border: none;
-   background-color: white;
-   height: 30px;
-   width: 30px;
-}
-.big {
-   border-radius: 50%;
-   border: none;
-   background-color: white;
-   height: 30px;
-   width: 30px;
-}
-.small {
-   border-radius: 50%;
-   border: none;
-   background-color: blue;
-   height: 30px;
-   width: 30px;
-}
-.red {
-   border-radius: 50%;
-   border: none;
-   background-color: red;
-   height: 30px;
-   width: 30px;
-}
-.green {
-   border-radius: 50%;
-   border: none;
-   background-color: green;
-   height: 30px;
-   width: 30px;
-}
-body {
-    background-color: black;
-    font-size: xx-large;
+#result {
+    height:50px;
 }
